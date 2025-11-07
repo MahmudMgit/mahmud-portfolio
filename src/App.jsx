@@ -240,7 +240,7 @@ export default function App() {
           .
         </p>
         <p className="mt-4 text-xs text-gray-500">
-          © 2025 Mahmud Miam. All rights reserved.
+          © 2025 Mahmud Mia. All rights reserved.
         </p>
       </motion.footer>
     </div>
