@@ -60,7 +60,7 @@ export default function App() {
       backgroundSize: "200% auto",
     }}
   >
-    Mahmud Miam
+    Mahmud Mia
   </motion.h1>
   <p className="text-gray-400 mt-3 text-lg tracking-wide">
     Computer Science Student & Developer
